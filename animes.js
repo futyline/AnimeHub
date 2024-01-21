@@ -15,6 +15,15 @@
     "player": 1,
     "msg": "Episódio 01 e 02 indisponíveis"
   },
+{
+    "title": "Fullmetal Alchemist Brotherhood",
+    "path": "fullmetal-alchemist-brotherhood",
+    "episodes": 64,
+    "letra": "f",
+    "player": 2,
+    "msg": "O Melhor Anime da historia"
+  },
+
   {
     "title": "Jujutsu Kaisen",
     "path": "jujutsu-kaisen",
