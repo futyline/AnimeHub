@@ -15,6 +15,23 @@
     "player": 2,
     "msg": ""
   },
+ {
+    "title": "Ansatsu Kyoushitsu (Assassination classroom)",
+    "path": "ansatsu-kyoushitsu",
+    "episodes": 22,
+    "letra": "a",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Ansatsu Kyoushitsu (Assassination classroom)",
+    "path": "ansatsu-kyoushitsu-2",
+    "episodes": 25,
+    "letra": "a",
+    "player": 2,
+    "msg": ""
+  },
+
 
   {
     "title": "Boku Dake ga inai Machi (Erased)",
