@@ -7,8 +7,7 @@
     "player": 1,
     "msg": ""
   },
-
-{
+ {
     "title": "Boku Dake ga inai Machi (Erased)",
     "path": "boku-dake-ga-inai-machi",
     "episodes": 12,
@@ -24,7 +23,7 @@
     "player": 1,
     "msg": "Episódio 01 e 02 indisponíveis"
   },
-{
+ {
     "title": "Fullmetal Alchemist Brotherhood",
     "path": "fullmetal-alchemist-brotherhood",
     "episodes": 64,
@@ -33,12 +32,12 @@
     "msg": "O Melhor Anime da historia"
   },
   {
-    title: "Hunter x Hunter 2011",
-    path: "hunter-x-hunter-2011",
-    episodes: 148,
-    letra: "h",
-    player: 2,
-    msg: "",
+    "title": "Hunter x Hunter 2011",
+    "path": "hunter-x-hunter-2011",
+    "episodes": 148,
+    "letra": "h",
+    "player": 2,
+    "msg": "",
   },
 
   {
