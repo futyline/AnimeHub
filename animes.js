@@ -31,7 +31,15 @@
     "player": 2,
     "msg": ""
   },
-
+ {
+    "title": "The God of High School",
+    "path": "the-god-of-high-school",
+    "episodes": 13,
+    "letra": "h",
+    "player": 3,
+    "num": "010",
+    "msg": ""
+ },
 
   {
     "title": "Jujutsu Kaisen",
