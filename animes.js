@@ -7,6 +7,15 @@
     "player": 1,
     "msg": ""
   },
+{
+    "title": "Another",
+    "path": "another",
+    "episodes": 13,
+    "letra": "a",
+    "player": 2,
+    "msg": ""
+  },
+
   {
     "title": "Boku Dake ga inai Machi (Erased)",
     "path": "boku-dake-ga-inai-machi",
