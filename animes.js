@@ -24,18 +24,10 @@
     "msg": "O Melhor Anime da historia"
   },
  {
-    "title": "Hunter x Hunter 2011",
-    "path": "hunterx-x-hunter-2011",
-    "episodes": 148,
-    "letra": "h",
-    "player": 2,
-    "msg": ""
-  },
- {
     "title": "The God of High School",
     "path": "the-god-of-high-school",
     "episodes": 13,
-    "letra": "h",
+    "letra": "t",
     "player": 3,
     "num": "010",
     "msg": ""
