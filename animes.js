@@ -1,4 +1,4 @@
-const animes = [
+[
   {
     title: "Ao No Exorcist 3",
     path: "ao-no-exorcist-3",
@@ -41,4 +41,4 @@ const animes = [
   },
 ];
 
-export default animes;
+
