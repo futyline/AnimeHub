@@ -16,6 +16,55 @@
     "num" :"010",
     "msg": ""
   },
+{
+    "title": "Boku no Hero Academia",
+    "path": "boku-no-hero",
+    "episodes": 13,
+    "letra": "b",
+    "player": 2,
+    "msg": ""
+  },
+
+  {
+    "title": "Boku no Hero Academia 2",
+    "path": "boku-no-hero-2",
+    "episodes": 25,
+    "letra": "b",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Boku no Hero Academia 3",
+    "path": "boku-no-hero-3",
+    "episodes": 25,
+    "letra": "b",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Boku no Hero Academia 4",
+    "path": "boku-no-hero-4",
+    "episodes": 25,
+    "letra": "b",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Boku no Hero Academia 5",
+    "path": "boku-no-hero-5",
+    "episodes": 25,
+    "letra": "b",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Boku no Hero Academia 6",
+    "path": "boku-no-hero-6",
+    "episodes": 25,
+    "letra": "b",
+    "player": 1,
+    "msg": ""
+  },
   {
     "title": "Chainsaw Man",
     "path": "chainsaw-man",
