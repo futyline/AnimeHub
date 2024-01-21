@@ -24,7 +24,7 @@
     "msg": ""
   },
   {
-    "title": "Ansatsu Kyoushitsu (Assassination classroom)",
+    "title": "Ansatsu Kyoushitsu 2 (Assassination classroom)",
     "path": "ansatsu-kyoushitsu-2",
     "episodes": 25,
     "letra": "a",
