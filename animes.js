@@ -7,6 +7,15 @@
     "player": 1,
     "msg": ""
   },
+
+{
+    "title": "Boku Dake ga inai Machi (Erased)",
+    "path": "boku-dake-ga-inai-machi",
+    "episodes": 12,
+    "letra": "b",
+    "player": 3,
+    "msg": ""
+  },
   {
     "title": "Chainsaw Man",
     "path": "chainsaw-man",
@@ -23,15 +32,14 @@
     "player": 2,
     "msg": "O Melhor Anime da historia"
   },
- {
-    "title": "The God of High School",
-    "path": "the-god-of-high-school",
-    "episodes": 13,
-    "letra": "t",
-    "player": 3,
-    "num": "010",
-    "msg": ""
- },
+  {
+    title: "Hunter x Hunter 2011",
+    path: "hunter-x-hunter-2011",
+    episodes: 148,
+    letra: "h",
+    player: 2,
+    msg: "",
+  },
 
   {
     "title": "Jujutsu Kaisen",
@@ -98,5 +106,25 @@
     "letra": "s",
     "player": 2,
     "msg": ""
-  }
+  },
+{
+    "title": "The God of High School",
+    "path": "the-god-of-high-school",
+    "episodes": 13,
+    "letra": "t",
+    "player": 3,
+    "num": "010",
+    "msg": ""
+ },
+{
+    "title": "Zom 100: Bucket List of the Dead",
+    "path": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+    "episodes": 12,
+    "letra": "z",
+    "player": 1,
+    "num": "010",
+    "msg": ""
+ },
+
+
 ]
