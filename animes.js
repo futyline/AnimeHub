@@ -7,7 +7,7 @@
     "player": 1,
     "msg": ""
   },
- {
+  {
     "title": "Boku Dake ga inai Machi (Erased)",
     "path": "boku-dake-ga-inai-machi",
     "episodes": 12,
@@ -23,7 +23,7 @@
     "player": 1,
     "msg": "Episódio 01 e 02 indisponíveis"
   },
- {
+  {
     "title": "Fullmetal Alchemist Brotherhood",
     "path": "fullmetal-alchemist-brotherhood",
     "episodes": 64,
@@ -37,7 +37,7 @@
     "episodes": 148,
     "letra": "h",
     "player": 2,
-    "msg": "",
+    "msg": ""
   },
 
   {
@@ -65,15 +65,15 @@
     "msg": ""
   },
 
-
-{
+  {
     "title": "Sword Art Online",
     "path": "sword-art-online",
     "episodes": 25,
     "letra": "s",
     "player": 2,
     "msg": ""
-  },{
+  },
+  {
     "title": "Sword Art Online 2",
     "path": "sword-art-online-ii",
     "episodes": 24,
@@ -106,7 +106,7 @@
     "player": 2,
     "msg": ""
   },
-{
+  {
     "title": "The God of High School",
     "path": "the-god-of-high-school",
     "episodes": 13,
@@ -114,8 +114,8 @@
     "player": 3,
     "num": "010",
     "msg": ""
- },
-{
+  },
+  {
     "title": "Zom 100: Bucket List of the Dead",
     "path": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
     "episodes": 12,
@@ -123,7 +123,5 @@
     "player": 1,
     "num": "010",
     "msg": ""
- },
-
-
+  }
 ]
