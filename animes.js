@@ -13,6 +13,7 @@
     "episodes": 12,
     "letra": "b",
     "player": 3,
+    "num" :"010"
     "msg": ""
   },
   {
