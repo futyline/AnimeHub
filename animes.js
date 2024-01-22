@@ -76,7 +76,7 @@
     "path": "shingeki-no-kyojin-final-season-3",
     "episodes": 2,
     "letra": "s",
-    "player": 2,
+    "player": 1,
     "esp":"sp",
     "msg": ""
   },
