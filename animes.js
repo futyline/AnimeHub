@@ -111,7 +111,8 @@
     "episodes": 148,
     "letra": "h",
     "player": 2,
-    "msg": ""
+    "msg": "",
+    "img": "https://static.anroll.net/images/animes/capas/hunter-x-hunter.jpg"
   },
 
   {
@@ -120,7 +121,9 @@
     "episodes": 24,
     "letra": "j",
     "player": 2,
-    "msg": ""
+    "msg": "",
+    "img": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/88/Anime_Key_Visual_2.png/revision/latest?cb=20201212034001"
+
   },
   {
     "title": "Jujutsu Kaisen 2",
@@ -128,7 +131,9 @@
     "episodes": 23,
     "letra": "j",
     "player": 1,
-    "msg": ""
+    "msg": "",
+    "img": "https://images.justwatch.com/poster/306336521/s592/temporada-2
+
   },
  {
     "title": "One Punch Man",
