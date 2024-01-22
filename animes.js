@@ -31,8 +31,55 @@
     "player": 2,
     "msg": ""
   },
-
-
+ {
+    "title": "Shingeki No Kyojin (Attack on titan)",
+    "path": "shingeki-no-kyojin",
+    "episodes": 25,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 2 (Attack on titan)",
+    "path": "shingeki-no-kyojin",
+    "episodes": 12,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 3 parte 1 (Attack on titan)",
+    "path": "shingeki-no-kyojin",
+    "episodes": 12,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 3 parte 2 (Attack on titan)",
+    "path": "shingeki-no-kyojin-part-2",
+    "episodes": 10,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 4 parte 1 (Attack on titan)",
+    "path": "shingeki-no-kyojin-final-season-2",
+    "episodes": 12,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 4 parte 2 final (Attack on titan)",
+    "path": "shingeki-no-kyojin-final-season-3",
+    "episodes": 2,
+    "letra": "s",
+    "player": 2,
+    "esp":"sp",
+    "msg": ""
+  },
   {
     "title": "Boku Dake ga inai Machi (Erased)",
     "path": "boku-dake-ga-inai-machi",
