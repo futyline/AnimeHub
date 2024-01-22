@@ -57,7 +57,7 @@
   },
   {
     "title": "Shingeki No Kyojin 3 parte 2 (Attack on titan)",
-    "path": "shingeki-no-kyojin-part-2",
+    "path": "shingeki-no-kyojin-3-part-2",
     "episodes": 10,
     "letra": "s",
     "player": 2,
