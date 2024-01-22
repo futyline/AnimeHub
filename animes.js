@@ -72,7 +72,15 @@
     "msg": ""
   },
   {
-    "title": "Shingeki No Kyojin 4 parte 2 final (Attack on titan)",
+    "title": "Shingeki No Kyojin 4 parte 2 (Attack on titan)",
+    "path": "shingeki-no-kyojin-the-final-season-2",
+    "episodes": 12,
+    "letra": "s", 
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 4 parte 3 final (Attack on titan)",
     "path": "shingeki-no-kyojin-the-final-season-3",
     "episodes": 2,
     "letra": "s",
