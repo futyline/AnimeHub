@@ -139,7 +139,7 @@
     "msg": ""
   },
  {
-    "title": "One Punch Man",
+    "title": "One Punch Man 2",
     "path": "one-punch-man-2",
     "episodes": 14,
     "letra": "o",
