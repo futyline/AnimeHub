@@ -136,6 +136,7 @@
     "episodes": 12,
     "letra": "o",
     "player": 3,
+    "num":"010",
     "msg": ""
   },
  {
@@ -144,6 +145,7 @@
     "episodes": 14,
     "letra": "o",
     "player": 3,
+    "num":"010",
     "msg": ""
   },
   {
