@@ -130,6 +130,22 @@
     "player": 1,
     "msg": ""
   },
+ {
+    "title": "One Punch Man",
+    "path": "one-punch-man",
+    "episodes": 12,
+    "letra": "o",
+    "player": 3,
+    "msg": ""
+  },
+ {
+    "title": "One Punch Man",
+    "path": "one-punch-man-2",
+    "episodes": 14,
+    "letra": "o",
+    "player": 3,
+    "msg": ""
+  },
   {
     "title": "Shingeki No Kyojin (Attack on titan)",
     "path": "shingeki-no-kyojin",
