@@ -31,63 +31,6 @@
     "player": 2,
     "msg": ""
   },
- {
-    "title": "Shingeki No Kyojin (Attack on titan)",
-    "path": "shingeki-no-kyojin",
-    "episodes": 25,
-    "letra": "s",
-    "player": 2,
-    "msg": ""
-  },
-  {
-    "title": "Shingeki No Kyojin 2 (Attack on titan)",
-    "path": "shingeki-no-kyojin",
-    "episodes": 12,
-    "letra": "s",
-    "player": 2,
-    "msg": ""
-  },
-  {
-    "title": "Shingeki No Kyojin 3 parte 1 (Attack on titan)",
-    "path": "shingeki-no-kyojin-3",
-    "episodes": 12,
-    "letra": "s",
-    "player": 2,
-    "msg": ""
-  },
-  {
-    "title": "Shingeki No Kyojin 3 parte 2 (Attack on titan)",
-    "path": "shingeki-no-kyojin-3-part-2",
-    "episodes": 10,
-    "letra": "s",
-    "player": 2,
-    "msg": ""
-  },
-  {
-    "title": "Shingeki No Kyojin 4 parte 1 (Attack on titan)",
-    "path": "shingeki-no-kyojin-the-final-season",
-    "episodes": 16,
-    "letra": "s",
-    "player": 2,
-    "msg": ""
-  },
-  {
-    "title": "Shingeki No Kyojin 4 parte 2 (Attack on titan)",
-    "path": "shingeki-no-kyojin-the-final-season-2",
-    "episodes": 12,
-    "letra": "s", 
-    "player": 2,
-    "msg": ""
-  },
-  {
-    "title": "Shingeki No Kyojin 4 parte 3 final (Attack on titan)",
-    "path": "shingeki-no-kyojin-the-final-season-3",
-    "episodes": 2,
-    "letra": "s",
-    "player": 1,
-    "esp":"sp",
-    "msg": ""
-  },
   {
     "title": "Boku Dake ga inai Machi (Erased)",
     "path": "boku-dake-ga-inai-machi",
@@ -185,6 +128,63 @@
     "episodes": 23,
     "letra": "j",
     "player": 1,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin (Attack on titan)",
+    "path": "shingeki-no-kyojin",
+    "episodes": 25,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 2 (Attack on titan)",
+    "path": "shingeki-no-kyojin",
+    "episodes": 12,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 3 parte 1 (Attack on titan)",
+    "path": "shingeki-no-kyojin-3",
+    "episodes": 12,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 3 parte 2 (Attack on titan)",
+    "path": "shingeki-no-kyojin-3-part-2",
+    "episodes": 10,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 4 parte 1 (Attack on titan)",
+    "path": "shingeki-no-kyojin-the-final-season",
+    "episodes": 16,
+    "letra": "s",
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 4 parte 2 (Attack on titan)",
+    "path": "shingeki-no-kyojin-the-final-season-2",
+    "episodes": 12,
+    "letra": "s", 
+    "player": 2,
+    "msg": ""
+  },
+  {
+    "title": "Shingeki No Kyojin 4 parte 3 final (Attack on titan)",
+    "path": "shingeki-no-kyojin-the-final-season-3",
+    "episodes": 2,
+    "letra": "s",
+    "player": 1,
+    "esp":"sp",
     "msg": ""
   },
   {
