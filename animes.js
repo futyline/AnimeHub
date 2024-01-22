@@ -132,7 +132,7 @@
     "letra": "j",
     "player": 1,
     "msg": "",
-    "img": "https://images.justwatch.com/poster/306336521/s592/temporada-2
+    "img": "https://images.justwatch.com/poster/306336521/s592/temporada-2"
 
   },
  {
