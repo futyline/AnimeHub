@@ -336,4 +336,14 @@
                 "num": "010",
                 "msg": "",
                 "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDG9Jt8_6VrkVlcywKlE-XeqpkXxEGQQPBsNuPwOvi-oKzaWhyy8KpCcuU&s=10"
+                },
+{
+                "title": "Goblin Slayer 2",
+                "path": "goblin-slayer-2",
+                "episodes": 12,
+                "letra": "g",
+                "player": 1,
+                "num": "010",
+                "msg": "",
+                "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/03/goblinslayerseason2_teaservisual.jpg?resize=696%2C981&ssl=1"
                 } ]
