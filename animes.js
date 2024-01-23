@@ -305,5 +305,25 @@
     "num": "010",
     "msg": "",
     "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dd37db90df46fca8d702266385a1193c.jpe"
-  }
-]
+  }, 
+
+{
+  "title": "Vinland Saga",
+   "path": "vinland-saga",
+   "episodes": 24,
+  "letra": "v",
+    "player": 2,
+      "num": "010",
+       "msg": "Episodios 21, 22, 23 e 24 indisponíveis",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEMAlljWAyQ0inbyZOzfei5XQFxjunx_GmdiP2zjbjCVECEOMYRxKJgnH&s=10"
+                },
+{
+                "title": "Vinland Saga 2",
+                "path": "vinland-saga-2",
+                "episodes": 24,
+                "letra": "v",
+                "player": 1,
+                "num": "010",
+                "msg": "",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7eDKHT62L5mXh0kxfkT9dAnbmx8_QX0ddg&usqp=CAU"
+                } ]
