@@ -326,4 +326,14 @@
                 "num": "010",
                 "msg": "",
                 "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7eDKHT62L5mXh0kxfkT9dAnbmx8_QX0ddg&usqp=CAU"
+                }, 
+{
+                "title": "Goblin Slayer",
+                "path": "goblin-slayer",
+                "episodes": 01,
+                "letra": "g",
+                "player": 2,
+                "num": "010",
+                "msg": "",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDG9Jt8_6VrkVlcywKlE-XeqpkXxEGQQPBsNuPwOvi-oKzaWhyy8KpCcuU&s=10"
                 } ]
