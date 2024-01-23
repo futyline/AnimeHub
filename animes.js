@@ -330,7 +330,7 @@
 {
                 "title": "Goblin Slayer",
                 "path": "goblin-slayer",
-                "episodes": 01,
+                "episodes": 12,
                 "letra": "g",
                 "player": 2,
                 "num": "010",
