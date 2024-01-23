@@ -209,7 +209,7 @@
     "letra": "s",
     "player": 2,
     "msg": "",
-    "img": "https://wallpapercave.com/wp/wp10506837.jpg"
+    "img": "https://pbs.twimg.com/media/FGxi9IUXIAIy-Ai.jpg"
   },
   {
     "title": "Shingeki No Kyojin 4 parte 2 (Attack on titan)",
