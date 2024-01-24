@@ -1,25 +1,25 @@
 [
-
-{
-                "title": "Ao no Exorcist (Blue Exorcist)",
-                "path": "ao-no-exorcist",
-                "episodes": 25,
-                "letra": "a",
-                "player": 2,
-                "num": "010",
-                "msg": "",
-                "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Ao_no_exorcist_DVD_cover.jpg"
-                },
-{
-                "title": "Ao no Exorcist 2 (Blue Exorcist)",
-                "path": "ao-no-exorcist-2",
-                "episodes": 12,
-                "letra": "a",
-                "player": 2,
-                "num": "010",
-                "msg": "",
-                "img": "https://m.media-amazon.com/images/M/MV5BMzM2ODE3OTEtNDYzYS00NGYwLTlhMzAtZGNhOGMyY2U1Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
-                },  {
+  {
+    "title": "Ao no Exorcist (Blue Exorcist)",
+    "path": "ao-no-exorcist",
+    "episodes": 25,
+    "letra": "a",
+    "player": 2,
+    "num": "010",
+    "msg": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Ao_no_exorcist_DVD_cover.jpg"
+  },
+  {
+    "title": "Ao no Exorcist 2 (Blue Exorcist)",
+    "path": "ao-no-exorcist-2",
+    "episodes": 12,
+    "letra": "a",
+    "player": 2,
+    "num": "010",
+    "msg": "",
+    "img": "https://m.media-amazon.com/images/M/MV5BMzM2ODE3OTEtNDYzYS00NGYwLTlhMzAtZGNhOGMyY2U1Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+  },
+  {
     "title": "Ao No Exorcist 3 (Blue Exorcist)",
     "path": "ao-no-exorcist-3",
     "episodes": 12,
@@ -28,7 +28,6 @@
     "msg": "Em andamento",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUccRM1lMTXtoZjcCG2_AOd3N0VrmDIMlSNuTX5yPud5KLpme5lAdSJgou-YjPJLiwBAXqssQtuRmW_TloON8WMpKZuTtlLDqAWg3IxXBXE6FwzH9Ump-zEPfsse-eL1DalBnlwqv-zyuDzpdgqVEohtr4IzR-pu6kUs6_5jClKwdE2bUhrs4zS0CC/s600/FotoJet.png"
   },
-
 
   {
     "title": "Another",
@@ -327,89 +326,86 @@
     "num": "010",
     "msg": "",
     "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dd37db90df46fca8d702266385a1193c.jpe"
-  }, 
+  },
 
-{
-  "title": "Vinland Saga",
-   "path": "vinland-saga",
-   "episodes": 24,
-  "letra": "v",
+  {
+    "title": "Vinland Saga",
+    "path": "vinland-saga",
+    "episodes": 24,
+    "letra": "v",
     "player": 2,
-      "num": "010",
-       "msg": "Episodios 21, 22, 23 e 24 indisponíveis",
-                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEMAlljWAyQ0inbyZOzfei5XQFxjunx_GmdiP2zjbjCVECEOMYRxKJgnH&s=10"
-                },
-{
-                "title": "Vinland Saga 2",
-                "path": "vinland-saga-2",
-                "episodes": 24,
-                "letra": "v",
-                "player": 1,
-                "num": "010",
-                "msg": "",
-                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7eDKHT62L5mXh0kxfkT9dAnbmx8_QX0ddg&usqp=CAU"
-                }, 
-{
-                "title": "Goblin Slayer",
-                "path": "goblin-slayer",
-                "episodes": 12,
-                "letra": "g",
-                "player": 2,
-                "num": "010",
-                "msg": "",
-                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDG9Jt8_6VrkVlcywKlE-XeqpkXxEGQQPBsNuPwOvi-oKzaWhyy8KpCcuU&s=10"
-                },
-{
-                "title": "Goblin Slayer 2",
-                "path": "goblin-slayer-2",
-                "episodes": 12,
-                "letra": "g",
-                "player": 1,
-                "num": "010",
-                "msg": "",
-                "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/03/goblinslayerseason2_teaservisual.jpg?resize=696%2C981&ssl=1"
-                },
-{
-                "title": "Death Note",
-                "path": "death-note",
-                "episodes": 37,
-                "letra": "d",
-                "player": 3,
-                "num": "010",
-                "msg": "",
-                "img": "https://static.wikia.nocookie.net/deathnote/images/7/76/DEATH_NOTE_anime.jpg/revision/latest?cb=20170720215429"
-                },
-{
-                "title": "Berserk (1997)",
-                "path": "berserk",
-                "episodes": 25,
-                "letra": "b",
-                "player": 2,
-                "num": "010",
-                "msg": "",
-                "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Berserk_%281997_anime%29%2C_DVD_cover_1.jpg"
-                },
-{
-                "title": "Hells Paradise",
-                "path": "jigokuraku",
-                "episodes": 13,
-                "letra": "j",
-                "player": 1,
-                "num": "010",
-                "msg": "",
-                "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dc8eccaf8d0729a43d4d35549f923877.jpeg"
-                },
-{
-                "title": "Tokyo Revengers",
-                "path": "tokyo-revengers",
-                "episodes": 24,
-                "letra": "t",
-                "player": 2,
-                "num": "010",
-                "msg": "",
-                "img": "https://m.media-amazon.com/images/M/MV5BODk1NWI5YjMtOGQ4Ni00MWQ0LWI5YTUtMzc1ZmU2MGQzM2RjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
-                }
-
-
-
- ]
+    "num": "010",
+    "msg": "Episodios 21, 22, 23 e 24 indisponíveis",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEMAlljWAyQ0inbyZOzfei5XQFxjunx_GmdiP2zjbjCVECEOMYRxKJgnH&s=10"
+  },
+  {
+    "title": "Vinland Saga 2",
+    "path": "vinland-saga-2",
+    "episodes": 24,
+    "letra": "v",
+    "player": 1,
+    "num": "010",
+    "msg": "",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7eDKHT62L5mXh0kxfkT9dAnbmx8_QX0ddg&usqp=CAU"
+  },
+  {
+    "title": "Goblin Slayer",
+    "path": "goblin-slayer",
+    "episodes": 12,
+    "letra": "g",
+    "player": 2,
+    "num": "010",
+    "msg": "",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDG9Jt8_6VrkVlcywKlE-XeqpkXxEGQQPBsNuPwOvi-oKzaWhyy8KpCcuU&s=10"
+  },
+  {
+    "title": "Goblin Slayer 2",
+    "path": "goblin-slayer-2",
+    "episodes": 12,
+    "letra": "g",
+    "player": 1,
+    "num": "010",
+    "msg": "",
+    "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/03/goblinslayerseason2_teaservisual.jpg?resize=696%2C981&ssl=1"
+  },
+  {
+    "title": "Death Note",
+    "path": "death-note",
+    "episodes": 37,
+    "letra": "d",
+    "player": 3,
+    "num": "010",
+    "msg": "",
+    "img": "https://static.wikia.nocookie.net/deathnote/images/7/76/DEATH_NOTE_anime.jpg/revision/latest?cb=20170720215429"
+  },
+  {
+    "title": "Berserk (1997)",
+    "path": "berserk",
+    "episodes": 25,
+    "letra": "b",
+    "player": 2,
+    "num": "010",
+    "msg": "",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Berserk_%281997_anime%29%2C_DVD_cover_1.jpg"
+  },
+  {
+    "title": "Hells Paradise",
+    "path": "jigokuraku",
+    "episodes": 13,
+    "letra": "j",
+    "player": 1,
+    "num": "010",
+    "msg": "",
+    "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dc8eccaf8d0729a43d4d35549f923877.jpeg"
+  },
+  {
+    "title": "Tokyo Revengers",
+    "path": "tokyo-revengers",
+    "episodes": 24,
+    "letra": "t",
+    "player": 2,
+    "num": "010",
+    "msg": "",
+    "img": "https://m.media-amazon.com/images/M/MV5BODk1NWI5YjMtOGQ4Ni00MWQ0LWI5YTUtMzc1ZmU2MGQzM2RjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
+  }
+]
