@@ -346,4 +346,37 @@
                 "num": "010",
                 "msg": "",
                 "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/03/goblinslayerseason2_teaservisual.jpg?resize=696%2C981&ssl=1"
-                } ]
+                },
+{
+                "title": "Death Note",
+                "path": "death-note",
+                "episodes": 37,
+                "letra": "d",
+                "player": 3,
+                "num": "010",
+                "msg": "",
+                "img": "https://static.wikia.nocookie.net/deathnote/images/7/76/DEATH_NOTE_anime.jpg/revision/latest?cb=20170720215429"
+                },
+{
+                "title": "Berserk (1997)",
+                "path": "berserk",
+                "episodes": 25,
+                "letra": "b",
+                "player": 2,
+                "num": "010",
+                "msg": "",
+                "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Berserk_%281997_anime%29%2C_DVD_cover_1.jpg"
+                },
+{
+                "title": "Hells Paradise",
+                "path": "jigokuraku",
+                "episodes": 13,
+                "letra": "j",
+                "player": 1,
+                "num": "010",
+                "msg": "",
+                "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dc8eccaf8d0729a43d4d35549f923877.jpeg"
+                }
+
+
+ ]
