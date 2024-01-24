@@ -1,13 +1,35 @@
 [
-  {
-    "title": "Ao No Exorcist 3",
+
+{
+                "title": "Ao no Exorcist (Blue Exorcist)",
+                "path": "ao-no-exorcist",
+                "episodes": 25,
+                "letra": "a",
+                "player": 2,
+                "num": "010",
+                "msg": "",
+                "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Ao_no_exorcist_DVD_cover.jpg"
+                },
+{
+                "title": "Ao no Exorcist 2 (Blue Exorcist)",
+                "path": "ao-no-exorcist-2",
+                "episodes": 12,
+                "letra": "a",
+                "player": 2,
+                "num": "010",
+                "msg": "",
+                "img": "https://m.media-amazon.com/images/M/MV5BMzM2ODE3OTEtNDYzYS00NGYwLTlhMzAtZGNhOGMyY2U1Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+                },  {
+    "title": "Ao No Exorcist 3 (Blue Exorcist)",
     "path": "ao-no-exorcist-3",
     "episodes": 12,
     "letra": "a",
     "player": 1,
-    "msg": "",
+    "msg": "Em andamento",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUccRM1lMTXtoZjcCG2_AOd3N0VrmDIMlSNuTX5yPud5KLpme5lAdSJgou-YjPJLiwBAXqssQtuRmW_TloON8WMpKZuTtlLDqAWg3IxXBXE6FwzH9Ump-zEPfsse-eL1DalBnlwqv-zyuDzpdgqVEohtr4IzR-pu6kUs6_5jClKwdE2bUhrs4zS0CC/s600/FotoJet.png"
   },
+
+
   {
     "title": "Another",
     "path": "another",
@@ -236,7 +258,7 @@
     "episodes": 25,
     "letra": "s",
     "player": 1,
-    "msg": "",
+    "msg": "Em andamento",
     "img": "https://m.media-amazon.com/images/M/MV5BODJkZTM3MWYtOTkxNS00YWUxLTg5NjAtOTk4ZWM5MTBmMzAyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
   },
 
@@ -376,7 +398,18 @@
                 "num": "010",
                 "msg": "",
                 "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dc8eccaf8d0729a43d4d35549f923877.jpeg"
+                },
+{
+                "title": "Tokyo Revengers",
+                "path": "tokyo-revengers",
+                "episodes": 24,
+                "letra": "t",
+                "player": 2,
+                "num": "010",
+                "msg": "",
+                "img": "https://m.media-amazon.com/images/M/MV5BODk1NWI5YjMtOGQ4Ni00MWQ0LWI5YTUtMzc1ZmU2MGQzM2RjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
                 }
+
 
 
  ]
