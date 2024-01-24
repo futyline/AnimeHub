@@ -396,7 +396,7 @@
     "player": 1,
     "num": "010",
     "msg": "",
-    "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dc8eccaf8d0729a43d4d35549f923877.jpeg"
+    "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/dc8eccaf8d0729a43d4d35549f923877.jpe"
   },
   {
     "title": "Tokyo Revengers",
