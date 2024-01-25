@@ -407,5 +407,36 @@
     "num": "010",
     "msg": "",
     "img": "https://m.media-amazon.com/images/M/MV5BODk1NWI5YjMtOGQ4Ni00MWQ0LWI5YTUtMzc1ZmU2MGQzM2RjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
-  }
+  },
+ {
+    "title": "Bakuman",
+    "path": "bakuman",
+    "episodes": 25,
+    "letra": "b",
+    "player": 4,
+    "num": "010",
+    "msg": "",
+    "img": "https://m.media-amazon.com/images/M/MV5BZDVjZGZlOTAtYjgwYS00NDU0LWJiODEtNmI5Y2YyNWRlN2Q0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    },
+  {
+    "title": "Bakuman 2",
+    "path": "bakuman-2",
+    "episodes": 25,
+    "letra": "b",
+    "player": 4,
+    "num": "010",
+    "msg": "",
+    "img": "https://i.pinimg.com/736x/3d/9c/dc/3d9cdc1958f2d95b231669e8448017b2.jpg"
+    },
+  {
+    "title": "Bakuman 3",
+    "path": "bakuman-3",
+    "episodes": 25,
+    "letra": "b",
+    "player": 4,
+    "num": "010",
+    "msg": "",
+    "img": "https://media.fstatic.com/TcmvGjlchG1IUPWTy-ZOjLGExUE=/322x478/smart/filters:format(webp)/media/movies/covers/2014/07/bakuman-3a-temporada_t66835.jpg"
+    }
+
 ]
