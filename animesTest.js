@@ -446,7 +446,7 @@
 
   {
     "name": "Goblin Slayer",
-    "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEMAlljWAyQ0inbyZOzfei5XQFxjunx_GmdiP2zjbjCVECEOMYRxKJgnH&s=10",
+    "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDG9Jt8_6VrkVlcywKlE-XeqpkXxEGQQPBsNuPwOvi-oKzaWhyy8KpCcuU&s=10",
     "temporadas": [
       {
         "title": "Goblin Slayer 1",
