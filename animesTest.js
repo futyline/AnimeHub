@@ -613,7 +613,7 @@
       {
         "title": "Mob Psycho 100 1",
         "path": "mob-psycho-100",
-        "episodes": 26,
+        "episodes": 12,
         "letra": "m",
         "player": 2,
         "num": "010",
