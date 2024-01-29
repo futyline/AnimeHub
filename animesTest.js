@@ -618,7 +618,7 @@
         "player": 2,
         "num": "010",
         "msg": "",
-        "img": "https://images.justwatch.com/poster/258527365/s592/temporada-1"
+        "img": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356"
       },
       {
         "title": "Mob Psycho 100 2",
