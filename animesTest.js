@@ -605,5 +605,41 @@
         "img": "https://imusic.b-cdn.net/images/item/original/223/4534530135223.jpg?gotouge-koyoharu-2022-kimetsu-no-yaiba-yuukaku-hen-5-limited-mdvd&class=scaled&v=1650461058"
       }
     ]
+  },
+  {
+    "name": "Mob Psycho 100",
+    "defaultPicture": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356",
+    "temporadas": [
+      {
+        "title": "Mob Psycho 100 1",
+        "path": "mob-psycho-100",
+        "episodes": 26,
+        "letra": "m",
+        "player": 2,
+        "num": "010",
+        "msg": "",
+        "img": "https://images.justwatch.com/poster/258527365/s592/temporada-1"
+      },
+      {
+        "title": "Mob Psycho 100 2",
+        "path": "mob-psycho-100-ii",
+        "episodes": 13,
+        "letra": "m",
+        "player": 2,
+        "num": "010",
+        "msg": "",
+        "img": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/5b/Mob_Pyscho_100_Cover_Season_2.jpg/revision/latest?cb=20211019185330"
+      },
+      {
+        "title": "Mob Psycho 100 3",
+        "path": "mob-psycho-100-3",
+        "episodes": 12,
+        "letra": "m",
+        "player": 3,
+        "num": "010",
+        "msg": "",
+        "img": "https://static.anroll.net/images/animes/capas/mob-psycho-100-3.jpg"
+      }
+    ]
   }
 ]
