@@ -655,6 +655,36 @@
         "num": "010",
         "msg": "",
         "img": "https://m.media-amazon.com/images/M/MV5BYmU2MzEyMjAtOTQ5Yy00NGMxLTg0NmItMTQ0ZTM5OGY0NjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+      },
+      {
+        "title": "Dr Stone 2 Stone Wars",
+        "path": "dr-stone-stone-wars",
+        "episodes": 11,
+        "letra": "d",
+        "player": 2,
+        "num": "010",
+        "msg": "",
+        "img": "https://cdn.myanimelist.net/images/about_me/ranking_items/8268346-abc65867-1f04-4749-9225-b026c0896da0.jpg"
+      },
+      {
+        "title": "Dr Stone 3 New World pt1",
+        "path": "dr-stone-new-world",
+        "episodes": 11,
+        "letra": "d",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://pbs.twimg.com/media/FxhhmZyXoAA4lYs.jpg"
+      },
+      {
+        "title": "Dr Stone 3 New World pt2",
+        "path": "dr-stone-new-world-part-2",
+        "episodes": 11,
+        "letra": "d",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://a.storyblok.com/f/178900/960x1357/e2c87ed133/dr-stone-new-world.jpg"
       }
     ]
   }
