@@ -687,5 +687,43 @@
         "img": "https://a.storyblok.com/f/178900/960x1357/e2c87ed133/dr-stone-new-world.jpg"
       }
     ]
+  },
+  {
+    "name": "Spy x Family",
+    "defaultPicture": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/1d/SPY_x_FAMILY_Key_Visual_4.png",
+    "temporadas": [
+      {
+        "title": "Spy x Family 1",
+        "path": "spy-family",
+        "episodes": 12,
+        "letra": "s",
+        "player": 3,
+        "num": "010",
+        "msg": "",
+        "img": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/1d/SPY_x_FAMILY_Key_Visual_4.png"
+      },
+      {
+        "title": "Spy x Family 1 pt2",
+        "path": "spy-family-2",
+        "episodes": 11,
+        "letra": "s",
+        "player": 3,
+        "num": "010",
+        "msg": "",
+        "img": "https://gkpb.com.br/wp-content/uploads/2022/09/SPY-x-FAMILY-Visual-Key-2-cour-1024x1536.jpg"
+      },
+      {
+        "title": "Spy x Family 2",
+        "path": "spy-x-family-season-2",
+        "episodes": 12,
+        "letra": "s",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/82/SPY_x_FAMILY_Season_2_Key_Visual.png"
+      }
+    
+    ]
   }
+
 ]
