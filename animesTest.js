@@ -641,5 +641,21 @@
         "img": "https://static.anroll.net/images/animes/capas/mob-psycho-100-3.jpg"
       }
     ]
+  },
+  {
+    "name": "Dr Stone",
+    "defaultPicture": "https://m.media-amazon.com/images/M/MV5BYmU2MzEyMjAtOTQ5Yy00NGMxLTg0NmItMTQ0ZTM5OGY0NjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "temporadas": [
+      {
+        "title": "Dr Stone 1",
+        "path": "dr-stone",
+        "episodes": 24,
+        "letra": "d",
+        "player": 3,
+        "num": "010",
+        "msg": "",
+        "img": "https://m.media-amazon.com/images/M/MV5BYmU2MzEyMjAtOTQ5Yy00NGMxLTg0NmItMTQ0ZTM5OGY0NjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+      }
+    ]
   }
 ]
