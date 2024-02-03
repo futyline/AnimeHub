@@ -777,6 +777,30 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92Lr8fez_XfBDTebkVfCuy60diZFamSCyVbOjF09PbDqssGIOdW8XKYU&s=10 "
       } 
     ]
+  }, 
+{
+    "name": "Noragami",
+    "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy3UjGaejUhDCAttAXFwBNvH83wjwQ1JbKiXSb3teb_juTgiTz9yw-zk&s=10 ",
+    "temporadas": [
+      {
+        "title": "Noragami 1",
+        "path": "noragami",
+        "episodes": 12,
+        "letra": "n",
+        "player": 2,
+        "msg": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy3UjGaejUhDCAttAXFwBNvH83wjwQ1JbKiXSb3teb_juTgiTz9yw-zk&s=10"
+      }, {
+                "title": "Noragami 2",
+                "path": "noragami-aragoto",
+                "episodes": ""13"",
+                "letra": "n",
+                "player": 2,
+                "num": "010",
+                "msg": "",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeOIMm9E-ZyHQiYKfFS3sRJEYW2wQb8fIGQ&usqp=CAU"
+                }
+    ]
   }  
 
 ]
