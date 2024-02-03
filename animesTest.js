@@ -739,6 +739,20 @@
         "img": "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2023/08/Shangri-La-Frontier-anime-novo-visual.webp"
       }
     ]
-  }
+  }, {
+    "name": "Blue Lock",
+    "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn46wAoqY6t-al-MalypaLKV8lz0UoUDYOsJrmfVAIIAuIGyxF2qRh_C0&s=10",
+    "temporadas": [
+      {
+        "title": "Blue Lock 1",
+        "path": "blue-lock",
+        "episodes": 24,
+        "letra": "b",
+        "player": 1,
+        "msg": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn46wAoqY6t-al-MalypaLKV8lz0UoUDYOsJrmfVAIIAuIGyxF2qRh_C0&s=10 "
+      }
+    ]
+  } 
 
 ]
