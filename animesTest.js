@@ -753,6 +753,30 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn46wAoqY6t-al-MalypaLKV8lz0UoUDYOsJrmfVAIIAuIGyxF2qRh_C0&s=10 "
       }
     ]
-  } 
+  }, 
+{
+    "name": "Fire Force",
+    "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9QXJuLIXZmmIs2Z3RAAHQR_h7vS3oMlLENEdA03oDG1HdZQ9nxgjNRo&s=10 ",
+    "temporadas": [
+      {
+        "title": "Fire Force 1",
+        "path": "enen-no-shouboutai",
+        "episodes": 24,
+        "letra": "e",
+        "player": 3,
+        "msg": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9QXJuLIXZmmIs2Z3RAAHQR_h7vS3oMlLENEdA03oDG1HdZQ9nxgjNRo&s=10"
+      }, 
+ {
+        "title": "Fire Force 2",
+        "path": "enen-no-shouboutai-2",
+        "episodes": 24,
+        "letra": "e",
+        "player": 2,
+        "msg": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92Lr8fez_XfBDTebkVfCuy60diZFamSCyVbOjF09PbDqssGIOdW8XKYU&s=10 "
+      } 
+    ]
+  }  
 
 ]
