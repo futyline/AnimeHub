@@ -802,5 +802,35 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeOIMm9E-ZyHQiYKfFS3sRJEYW2wQb8fIGQ&usqp=CAU"
       }
     ]
+  },
+  {
+    "name": "Dororo",
+    "defaultPicture": "https://m.media-amazon.com/images/M/MV5BMTMwNmQyM2EtMDQ2My00Y2FhLWJlYTYtMDMwYWU4MzAwYmI3XkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_.jpg",
+    "temporadas": [
+      {
+        "title": "Dororo 1",
+        "path": "dororo",
+        "episodes": 24,
+        "letra": "d",
+        "player": 3,
+        "msg": "",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTMwNmQyM2EtMDQ2My00Y2FhLWJlYTYtMDMwYWU4MzAwYmI3XkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Undead Unluck",
+    "defaultPicture": "https://upload.wikimedia.org/wikipedia/en/c/cf/Undead_Unluck%2C_volume_1_cover.jpg",
+    "temporadas": [
+      {
+        "title": "Undead Unluck 1",
+        "path": "undead-unluck",
+        "episodes": 24,
+        "letra": "u",
+        "player": 1,
+        "msg": "Em andamento",
+        "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/Undead_Unluck%2C_volume_1_cover.jpg"
+      }
+    ]
   }
 ]
