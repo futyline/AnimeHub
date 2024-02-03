@@ -1,4 +1,4 @@
-[
+[ 
   {
     "name": "Ao No Exorcist",
     "defaultPicture": "https://m.media-amazon.com/images/M/MV5BMzM2ODE3OTEtNDYzYS00NGYwLTlhMzAtZGNhOGMyY2U1Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
