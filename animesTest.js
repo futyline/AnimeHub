@@ -724,6 +724,21 @@
       }
     
     ]
+  },
+  {
+    "name": "Shangri-la Frontier",
+    "defaultPicture": "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2023/08/Shangri-La-Frontier-anime-novo-visual.webp",
+    "temporadas": [
+      {
+        "title": "Shangri-la Frontier",
+        "path": "shangri-la-frontier",
+        "episodes": 24,
+        "letra": "s",
+        "player": 1,
+        "msg": "Em andamento",
+        "img": "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2023/08/Shangri-La-Frontier-anime-novo-visual.webp"
+      }
+    ]
   }
 
 ]
