@@ -1,4 +1,4 @@
-[ 
+[
   {
     "name": "Ao No Exorcist",
     "defaultPicture": "https://m.media-amazon.com/images/M/MV5BMzM2ODE3OTEtNDYzYS00NGYwLTlhMzAtZGNhOGMyY2U1Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
@@ -722,7 +722,6 @@
         "msg": "",
         "img": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/82/SPY_x_FAMILY_Season_2_Key_Visual.png"
       }
-    
     ]
   },
   {
@@ -739,7 +738,8 @@
         "img": "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2023/08/Shangri-La-Frontier-anime-novo-visual.webp"
       }
     ]
-  }, {
+  },
+  {
     "name": "Blue Lock",
     "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn46wAoqY6t-al-MalypaLKV8lz0UoUDYOsJrmfVAIIAuIGyxF2qRh_C0&s=10",
     "temporadas": [
@@ -753,8 +753,8 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn46wAoqY6t-al-MalypaLKV8lz0UoUDYOsJrmfVAIIAuIGyxF2qRh_C0&s=10 "
       }
     ]
-  }, 
-{
+  },
+  {
     "name": "Fire Force",
     "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9QXJuLIXZmmIs2Z3RAAHQR_h7vS3oMlLENEdA03oDG1HdZQ9nxgjNRo&s=10 ",
     "temporadas": [
@@ -766,8 +766,8 @@
         "player": 3,
         "msg": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9QXJuLIXZmmIs2Z3RAAHQR_h7vS3oMlLENEdA03oDG1HdZQ9nxgjNRo&s=10"
-      }, 
- {
+      },
+      {
         "title": "Fire Force 2",
         "path": "enen-no-shouboutai-2",
         "episodes": 24,
@@ -775,10 +775,10 @@
         "player": 2,
         "msg": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92Lr8fez_XfBDTebkVfCuy60diZFamSCyVbOjF09PbDqssGIOdW8XKYU&s=10 "
-      } 
+      }
     ]
-  }, 
-{
+  },
+  {
     "name": "Noragami",
     "defaultPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy3UjGaejUhDCAttAXFwBNvH83wjwQ1JbKiXSb3teb_juTgiTz9yw-zk&s=10 ",
     "temporadas": [
@@ -790,17 +790,17 @@
         "player": 2,
         "msg": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy3UjGaejUhDCAttAXFwBNvH83wjwQ1JbKiXSb3teb_juTgiTz9yw-zk&s=10"
-      }, {
-                "title": "Noragami 2",
-                "path": "noragami-aragoto",
-                "episodes": ""13"",
-                "letra": "n",
-                "player": 2,
-                "num": "010",
-                "msg": "",
-                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeOIMm9E-ZyHQiYKfFS3sRJEYW2wQb8fIGQ&usqp=CAU"
-                }
+      },
+      {
+        "title": "Noragami 2",
+        "path": "noragami-aragoto",
+        "episodes": 13,
+        "letra": "n",
+        "player": 2,
+        "num": "010",
+        "msg": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeOIMm9E-ZyHQiYKfFS3sRJEYW2wQb8fIGQ&usqp=CAU"
+      }
     ]
-  }  
-
+  }
 ]
