@@ -608,7 +608,7 @@
   },
   {
     "name": "Mob Psycho 100",
-    "defaultPicture": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356",
+    "defaultPicture": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg",
     "temporadas": [
       {
         "title": "Mob Psycho 100 1",
@@ -618,7 +618,7 @@
         "player": 2,
         "num": "010",
         "msg": "",
-        "img": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg/revision/latest?cb=20161108223356"
+        "img": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg"
       },
       {
         "title": "Mob Psycho 100 2",
