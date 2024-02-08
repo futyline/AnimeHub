@@ -832,5 +832,20 @@
         "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/Undead_Unluck%2C_volume_1_cover.jpg"
       }
     ]
+  },
+  {
+    "name": "Sousou No Frieren",
+    "defaultPicture": "https://www.intoxianime.com/wp-content/uploads/2023/08/F4M7DiMbgAAuHUV.jpg",
+    "temporadas": [
+      {
+        "title": "Sousou No Frieren 1",
+        "path": "sousou-no-frieren",
+        "episodes": 22,
+        "letra": "s",
+        "player": 1,
+        "msg": "Em andamento",
+        "img": "https://www.intoxianime.com/wp-content/uploads/2023/08/F4M7DiMbgAAuHUV.jpg"
+      }
+    ]
   }
 ]
