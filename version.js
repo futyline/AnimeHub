@@ -1,6 +1,6 @@
 {
-"version" : "1.0.8",
+"version" : "1.0.9",
 "message" : "Uma nova versão esta disponivel para download",
-"link" : "hs2fAhyJxAoowsdis6DvgL.apk"
+"link" : "5zyh1Fh1EqoWUvYUv82wPL.apk"
  }
 
