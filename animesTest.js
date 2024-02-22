@@ -897,7 +897,7 @@
       {
         "title": "Mushoku Tensei 2: Isekai Ittara Honki Dasu pt 2",
         "path": "mushoku-tensei-ii-isekai-ittara-honki-dasu",
-        "episodes": 12,
+        "episodes": 0,
         "letra": "m",
         "player": 1,
         "msg": "começa em 8 de abril",
