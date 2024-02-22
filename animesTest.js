@@ -928,6 +928,21 @@
         "img": "https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2022/12/FkPogUBVsAI0xCM.jpeg"
       }
     ]
+  },
+  {
+    "name": "The Weakest Tamer Began a Journey to Pick Up Trash",
+    "defaultPicture": "https://www.animesxis.com.br/wp-content/uploads/2022/11/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-image-anime.jpg",
+    "temporadas": [
+      {
+        "title": "The Weakest Tamer Began a Journey to Pick Up Trash 1",
+        "path": "saijaku-tamer-wa-gomihiroi-no-tabi-o-hajimemashita",
+        "episodes": 12,
+        "letra": "t",
+        "player": 1,
+        "msg": "",
+        "img": "https://www.animesxis.com.br/wp-content/uploads/2022/11/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-image-anime.jpg"
+      }
+    ]
   }
 
 ]
