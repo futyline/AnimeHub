@@ -871,7 +871,7 @@
         "title": "Mushoku Tensei: Isekai Ittara Honki Dasu pt 1",
         "path": "mushoku-tensei-isekai-ittara-honki-dasu",
         "episodes": 11,
-        "letra": "n",
+        "letra": "m",
         "player": 5,
         "msg": "",
         "img": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
