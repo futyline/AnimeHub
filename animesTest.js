@@ -847,5 +847,20 @@
         "img": "https://www.intoxianime.com/wp-content/uploads/2023/08/F4M7DiMbgAAuHUV.jpg"
       }
     ]
+  },
+  {
+    "name": "Ninja Kamui",
+    "defaultPicture": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2024/02/ninja-kamui-soundtrack-cover-1.jpg?resize=550%2C550&ssl=1",
+    "temporadas": [
+      {
+        "title": "Ninja Kamui 1",
+        "path": "ninja-kamui",
+        "episodes": 12,
+        "letra": "n",
+        "player": 1,
+        "msg": "Em andamento",
+        "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2024/02/ninja-kamui-soundtrack-cover-1.jpg?resize=550%2C550&ssl=1"
+      }
+    ]
   }
 ]
