@@ -904,6 +904,30 @@
         "img": "https://animenew.com.br/wp-content/uploads/2023/12/Mushoku-Tensei-Parte-2-da-2a-temporada-do-anime-ganha-arte-promocional-1-jpg.webp"
       }
     ]
+  },
+  {
+    "name": "Mashle",
+    "defaultPicture": "https://m.media-amazon.com/images/M/MV5BM2M1Yzc5OTMtNWQxYS00NTg5LThiYjQtODRhZGMwODVkNjAyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "temporadas": [
+      {
+        "title": "Mashle 1",
+        "path": "mashle",
+        "episodes": 12,
+        "letra": "m",
+        "player": 1,
+        "msg": "",
+        "img": "https://m.media-amazon.com/images/M/MV5BM2M1Yzc5OTMtNWQxYS00NTg5LThiYjQtODRhZGMwODVkNjAyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg"
+      },
+      {
+        "title": "Mashle 2",
+        "path": "mashle-2nd-season",
+        "episodes": 12,
+        "letra": "m",
+        "player": 1,
+        "msg": "em andamento",
+        "img": "https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2022/12/FkPogUBVsAI0xCM.jpeg"
+      }
+    ]
   }
 
 ]
