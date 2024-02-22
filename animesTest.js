@@ -862,5 +862,48 @@
         "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2024/02/ninja-kamui-soundtrack-cover-1.jpg?resize=550%2C550&ssl=1"
       }
     ]
+  },
+{
+    "name": "Mushoku Tensei",
+    "defaultPicture": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+    "temporadas": [
+      {
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu pt 1",
+        "path": "mushoku-tensei-isekai-ittara-honki-dasu",
+        "episodes": 11,
+        "letra": "n",
+        "player": 5,
+        "msg": "",
+        "img": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu pt 2",
+        "path": "mushoku-tensei-isekai-ittara-honki-dasu-2",
+        "episodes": 12,
+        "letra": "m",
+        "player": 2,
+        "msg": "Episodio 12 indisponivel",
+        "img": "https://imusic.b-cdn.net/images/item/original/444/5022366774444.jpg"
+      },
+      {
+        "title": "Mushoku Tensei 2: Isekai Ittara Honki Dasu pt 1",
+        "path": "mushoku-tensei-ii-isekai-ittara-honki-dasu",
+        "episodes": 12,
+        "letra": "m",
+        "player": 1,
+        "msg": "Episodio 00 indisponivel",
+        "img": "https://www.animeexplained.com/wp-content/uploads/2023/07/mushoku-tensei-s2-visual.webp"
+      },
+      {
+        "title": "Mushoku Tensei 2: Isekai Ittara Honki Dasu pt 2",
+        "path": "mushoku-tensei-ii-isekai-ittara-honki-dasu",
+        "episodes": 12,
+        "letra": "m",
+        "player": 1,
+        "msg": "começa em 8 de abril",
+        "img": "https://animenew.com.br/wp-content/uploads/2023/12/Mushoku-Tensei-Parte-2-da-2a-temporada-do-anime-ganha-arte-promocional-1-jpg.webp"
+      }
+    ]
   }
+
 ]
