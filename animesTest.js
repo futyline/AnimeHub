@@ -961,5 +961,31 @@
         "img": "https://i.pinimg.com/originals/bc/c9/51/bcc951d89f74a93512439c964851215c.jpg"
       }
     ]
+  },
+  {
+    "name": "Bleach - Thousand-Year Blood War",
+    "defaultPicture": "https://www.animenewsnetwork.com/hotlink/images/encyc/A25066-825432658.1659822888.jpg",
+    "temporadas": [
+      {
+        "title": "Thousand-Year Blood War Pt 1",
+        "path": "bleach-sennen-kessen-hen",
+        "episodes": 13,
+        "letra": "b",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://www.animenewsnetwork.com/hotlink/images/encyc/A25066-825432658.1659822888.jpg"
+      },
+      {
+        "title": "Thousand-Year Blood War Pt 2",
+        "path": "bleach-sennen-kessen-hen-ketsubetsu-tan",
+        "episodes": 13,
+        "letra": "b",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2023/07/Part-2-de-Bleach-Thousand-Year-Blood-War-visual-3-1-scaled.jpg"
+      }
+    ]
   }
 ]
