@@ -531,6 +531,26 @@
         "num": "010",
         "msg": "",
         "img": "https://m.media-amazon.com/images/M/MV5BODk1NWI5YjMtOGQ4Ni00MWQ0LWI5YTUtMzc1ZmU2MGQzM2RjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
+      },
+      {
+        "title": "Tokyo Revengers 2 - Christmas Showdown",
+        "path": "tokyo-revengers-seiya-kessen-hen",
+        "episodes": 13,
+        "letra": "t",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://cdn-us.anidb.net/images/main/283756.jpg"
+      },
+      {
+        "title": "Tokyo Revengers 3 - enjiku Arc",
+        "path": "tokyo-revengers-tenjiku-hen",
+        "episodes": 12,
+        "letra": "t",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/rFBHnubwW6ZgYiOkRhd3FI9rvNgm9pVNRKfVYsLb.jpg"
       }
     ]
   },
