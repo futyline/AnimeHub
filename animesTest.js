@@ -764,6 +764,7 @@
         "episodes": 24,
         "letra": "e",
         "player": 3,
+        "num": "010",
         "msg": "",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9QXJuLIXZmmIs2Z3RAAHQR_h7vS3oMlLENEdA03oDG1HdZQ9nxgjNRo&s=10"
       },
@@ -813,6 +814,7 @@
         "episodes": 24,
         "letra": "d",
         "player": 3,
+        "num": "010",
         "msg": "",
         "img": "https://m.media-amazon.com/images/M/MV5BMTMwNmQyM2EtMDQ2My00Y2FhLWJlYTYtMDMwYWU4MzAwYmI3XkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_.jpg"
       }
@@ -863,7 +865,7 @@
       }
     ]
   },
-{
+  {
     "name": "Mushoku Tensei",
     "defaultPicture": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
     "temporadas": [
@@ -943,6 +945,21 @@
         "img": "https://www.animesxis.com.br/wp-content/uploads/2022/11/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-image-anime.jpg"
       }
     ]
+  },
+  {
+    "name": "Bleach",
+    "defaultPicture": "https://i.pinimg.com/originals/bc/c9/51/bcc951d89f74a93512439c964851215c.jpg",
+    "temporadas": [
+      {
+        "title": "Bleach",
+        "path": "bleach",
+        "episodes": 366,
+        "letra": "b",
+        "player": 3,
+        "num": "010",
+        "msg": "",
+        "img": "https://i.pinimg.com/originals/bc/c9/51/bcc951d89f74a93512439c964851215c.jpg"
+      }
+    ]
   }
-
 ]
