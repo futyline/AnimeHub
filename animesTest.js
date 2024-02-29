@@ -543,7 +543,7 @@
         "img": "https://cdn-us.anidb.net/images/main/283756.jpg"
       },
       {
-        "title": "Tokyo Revengers 3 - enjiku Arc",
+        "title": "Tokyo Revengers 3 - Tenjiku Arc",
         "path": "tokyo-revengers-tenjiku-hen",
         "episodes": 12,
         "letra": "t",
