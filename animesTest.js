@@ -937,7 +937,7 @@
         "title": "The Weakest Tamer Began a Journey to Pick Up Trash 1",
         "path": "saijaku-tamer-wa-gomihiroi-no-tabi-o-hajimemashita",
         "episodes": 12,
-        "letra": "t",
+        "letra": "s",
         "player": 1,
         "msg": "",
         "img": "https://www.animesxis.com.br/wp-content/uploads/2022/11/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-image-anime.jpg"
