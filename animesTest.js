@@ -1023,5 +1023,21 @@
         "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/8532171bec0d05bfe45769a330fbab82.jpe"
       }
     ]
+  },
+  {
+    "name": "Naruto Shippuden",
+    "defaultPicture": "https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "temporadas": [
+      {
+        "title": "Naruto Shippuden",
+        "path": "naruto-shippuden",
+        "episodes": 500,
+        "letra": "n",
+        "player": 2,
+        "num": "010",
+        "msg": "",
+        "img": "https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+      }
+    ]
   }
 ]
