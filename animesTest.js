@@ -1039,5 +1039,21 @@
         "img": "https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
       }
     ]
+  },
+  {
+    "name": "No Game No Life",
+    "defaultPicture": "https://static.wikia.nocookie.net/dublagem/images/5/55/Qoj8t5XdsyBJGMWV8MfZviz7gcA.jpg/revision/latest?cb=20200519061600&path-prefix=pt-br",
+    "temporadas": [
+      {
+        "title": "No Game No Life",
+        "path": "no-game-no-life",
+        "episodes": 12,
+        "letra": "n",
+        "player": 5,
+        "num": "010",
+        "msg": "",
+        "img": "https://static.wikia.nocookie.net/dublagem/images/5/55/Qoj8t5XdsyBJGMWV8MfZviz7gcA.jpg/revision/latest?cb=20200519061600&path-prefix=pt-br"
+      }
+    ]
   }
 ]
