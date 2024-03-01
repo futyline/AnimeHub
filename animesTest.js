@@ -1007,5 +1007,21 @@
         "img": "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2023/07/Part-2-de-Bleach-Thousand-Year-Blood-War-visual-3-1-scaled.jpg"
       }
     ]
+  },
+  {
+    "name": "Naruto Classico",
+    "defaultPicture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/8532171bec0d05bfe45769a330fbab82.jpe",
+    "temporadas": [
+      {
+        "title": "Naruto Classico",
+        "path": "naruto-classico-legendado",
+        "episodes": 220,
+        "letra": "n",
+        "player": 2,
+        "num": "010",
+        "msg": "",
+        "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/8532171bec0d05bfe45769a330fbab82.jpe"
+      }
+    ]
   }
 ]
