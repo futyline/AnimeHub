@@ -1062,8 +1062,8 @@
     "temporadas": [
       {
         "title": "Dragon Ball Super",
-        "path": "dragon-ball-supe",
-        "episodes": 12,
+        "path": "dragon-ball-super",
+        "episodes": 131,
         "letra": "d",
         "player": 2,
         "num": "010",
