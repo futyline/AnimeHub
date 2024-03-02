@@ -1055,5 +1055,21 @@
         "img": "https://static.wikia.nocookie.net/dublagem/images/5/55/Qoj8t5XdsyBJGMWV8MfZviz7gcA.jpg/revision/latest?cb=20200519061600&path-prefix=pt-br"
       }
     ]
+  },
+  {
+    "name": "Dragon Ball Super",
+    "defaultPicture": "https://i.pinimg.com/originals/02/5f/4b/025f4ba0c088e9272b95711224fd340b.png",
+    "temporadas": [
+      {
+        "title": "Dragon Ball Super",
+        "path": "dragon-ball-supe",
+        "episodes": 12,
+        "letra": "d",
+        "player": 2,
+        "num": "010",
+        "msg": "",
+        "img": "https://i.pinimg.com/originals/02/5f/4b/025f4ba0c088e9272b95711224fd340b.png"
+      }
+    ]
   }
 ]
