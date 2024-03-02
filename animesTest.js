@@ -1087,5 +1087,21 @@
         "img": "https://m.media-amazon.com/images/M/MV5BMDEzZDU2ZTgtZTIxMS00NTg4LWE4OTAtYWUxMzQzODkyNjMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
       }
     ]
+  },
+  {
+    "name": "Soul Eater",
+    "defaultPicture": "https://i.pinimg.com/736x/d0/78/e2/d078e207584cd622ef013f65114f0544.jpg",
+    "temporadas": [
+      {
+        "title": "Soul Eater",
+        "path": "soul-eater",
+        "episodes": 51,
+        "letra": "s",
+        "player": 5,
+        "num": "010",
+        "msg": "",
+        "img": "https://i.pinimg.com/736x/d0/78/e2/d078e207584cd622ef013f65114f0544.jpg"
+      }
+    ]
   }
 ]
