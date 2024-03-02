@@ -1083,7 +1083,7 @@
         "letra": "c",
         "player": 1,
         "num": "010",
-        "msg": "",
+        "msg": "Em andamento",
         "img": "https://m.media-amazon.com/images/M/MV5BMDEzZDU2ZTgtZTIxMS00NTg4LWE4OTAtYWUxMzQzODkyNjMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
       }
     ]
