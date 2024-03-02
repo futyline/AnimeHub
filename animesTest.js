@@ -1103,5 +1103,32 @@
         "img": "https://i.pinimg.com/736x/d0/78/e2/d078e207584cd622ef013f65114f0544.jpg"
       }
     ]
+  },
+   {
+    "name": "Hellsing",
+    "defaultPicture": "https://i.pinimg.com/474x/b6/f1/33/b6f133e5f544ca528680d88d42c69d7f.jpg",
+    "temporadas": [
+      {
+        "title": "Hellsing",
+        "path": "hellsing",
+        "episodes": 13,
+        "letra": "h",
+        "player": 3,
+        "num": "010",
+        "msg": "",
+        "img": "https://i.pinimg.com/474x/b6/f1/33/b6f133e5f544ca528680d88d42c69d7f.jpg"
+      },
+      {
+        "title": "Hellsing Ultimate",
+        "path": "hellsing",
+        "episodes": 10,
+        "letra": "h",
+        "player": 6,
+        "num": "010",
+        "esp": "p1",
+        "msg": "",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+      }
+    ]
   }
 ]
