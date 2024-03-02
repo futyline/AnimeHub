@@ -1130,5 +1130,21 @@
         "img": "https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
       }
     ]
+  },
+  {
+    "name": "Parasyte",
+    "defaultPicture": "https://images.justwatch.com/poster/160037781/s718/kiseijuu-sei-no-kakuritsu.jpg",
+    "temporadas": [
+      {
+        "title": "Parasyte",
+        "path": "kiseijuu-sei-no-kakuritsu",
+        "episodes": 24,
+        "letra": "h",
+        "player": 4,
+        "num": "010",
+        "msg": "",
+        "img": "https://images.justwatch.com/poster/160037781/s718/kiseijuu-sei-no-kakuritsu.jpg"
+      }
+    ]
   }
 ]
