@@ -1120,7 +1120,7 @@
       },
       {
         "title": "Hellsing Ultimate",
-        "path": "hellsing",
+        "path": "hellsing-ultimate",
         "episodes": 10,
         "letra": "h",
         "player": 6,
