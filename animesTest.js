@@ -1139,7 +1139,7 @@
         "title": "Parasyte",
         "path": "kiseijuu-sei-no-kakuritsu",
         "episodes": 24,
-        "letra": "h",
+        "letra": "k",
         "player": 4,
         "num": "010",
         "msg": "",
