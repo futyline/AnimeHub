@@ -1080,7 +1080,7 @@
         "title": "The Wrong Way to Use Healing Magic",
         "path": "chiyu-mahou-no-machigatta",
         "episodes": 13,
-        "letra": "t",
+        "letra": "c",
         "player": 1,
         "num": "010",
         "msg": "",
