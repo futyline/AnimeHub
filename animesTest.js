@@ -1071,5 +1071,21 @@
         "img": "https://i.pinimg.com/originals/02/5f/4b/025f4ba0c088e9272b95711224fd340b.png"
       }
     ]
+  },
+  {
+    "name": "The Wrong Way to Use Healing Magic",
+    "defaultPicture": "https://m.media-amazon.com/images/M/MV5BMDEzZDU2ZTgtZTIxMS00NTg4LWE4OTAtYWUxMzQzODkyNjMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+    "temporadas": [
+      {
+        "title": "The Wrong Way to Use Healing Magic",
+        "path": "chiyu-mahou-no-machigatta",
+        "episodes": 13,
+        "letra": "t",
+        "player": 1,
+        "num": "010",
+        "msg": "",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDEzZDU2ZTgtZTIxMS00NTg4LWE4OTAtYWUxMzQzODkyNjMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+      }
+    ]
   }
 ]
