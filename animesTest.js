@@ -1146,5 +1146,21 @@
         "img": "https://images.justwatch.com/poster/160037781/s718/kiseijuu-sei-no-kakuritsu.jpg"
       }
     ]
-  }
+  },
+  {
+  "name": "One Piece",
+  "defaultPicture": "https://i.pinimg.com/originals/04/65/2b/04652b44ea7c1275d1022d98d59ecc97.jpg",
+  "temporadas": [
+    {
+      "img": "https://i.pinimg.com/originals/04/65/2b/04652b44ea7c1275d1022d98d59ecc97.jpg",
+      "msg": "ao infinito e além",
+      "num": "010",
+      "player": 3,
+      "letra": "o",
+      "episodes": 1200,
+      "path": "one-piece",
+      "title": "One Piece"
+    }
+  ]
+}
 ]
