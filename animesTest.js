@@ -1162,5 +1162,39 @@
       "title": "One Piece"
     }
   ]
+},
+  {
+  "name": "Tate No Yuusha",
+  "defaultPicture": "https://i.pinimg.com/736x/c3/b4/0a/c3b40a8fc2b2e975e393f8bdef74b911.jpg",
+  "temporadas": [
+    {
+      "esp": "",
+      "path": "tate-no-yuusha-no-nariagari",
+      "episodes": 25,
+      "letra": "t",
+      "player": 2,
+      "num": "010",
+      "img": "https://i.pinimg.com/736x/c3/b4/0a/c3b40a8fc2b2e975e393f8bdef74b911.jpg",
+      "title": "Tate No Yuusha"
+    },
+    {
+      "path": "tate-no-yuusha-no-nariagari-2",
+      "episodes": 13,
+      "letra": "t",
+      "player": 3,
+      "num": "010",
+      "title": "Tate No Yuusha 2",
+      "img": "https://i0.wp.com/areatopik.com/wp-content/uploads/2021/03/EhHFvyVU4AA7cUw-1.jpg"
+    },
+    {
+      "path": "tate-no-yuusha-no-nariagari-season-3",
+      "title": "Tate No Yuusha 3",
+      "num": "010",
+      "img": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/gEnx6QElJb7G3EMFNsXTeSHQeuzgWHl7gp7JreU1.png",
+      "letra": "t",
+      "episodes": 12,
+      "player": 1
+    }
+  ]
 }
 ]
