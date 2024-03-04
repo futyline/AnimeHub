@@ -1337,5 +1337,29 @@
       "img": "https://www.animenewsnetwork.com/hotlink/images/encyc/A25032-1890086850.1638749915.jpg"
     }
   ]
+},
+  {
+  "name": "Arifureta",
+  "defaultPicture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/262100ca8b0ad88cda46ab260d978af9.jpe",
+  "temporadas": [
+    {
+      "title": "Arifureta",
+      "path": "arifureta-shokugyou-de-sekai-saikyou",
+      "letra": "a",
+      "episodes": 13,
+      "player": 5,
+      "num": "010",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/262100ca8b0ad88cda46ab260d978af9.jpe"
+    },
+    {
+      "title": "Arifureta 2",
+      "letra": "a",
+      "path": "arifureta-shokugyou-de-sekai-saikyou-2nd-season",
+      "episodes": 13,
+      "player": 2,
+      "num": "010",
+      "img": "https://blogs.opovo.com.br/tomodachinerds/wp-content/uploads/sites/102/2021/10/arifureta_2nd_kv.jpg"
+    }
+  ]
 }
 ]
