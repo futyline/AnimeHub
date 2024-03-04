@@ -1262,5 +1262,38 @@
       "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2021/11/Made-in-Abyss-S2-KV.jpg"
     }
   ]
+},
+  {
+  "name": "Hajime No Ippo",
+  "defaultPicture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/caecff823e348221e55a798447fd2aec.jpe",
+  "temporadas": [
+    {
+      "player": 2,
+      "path": "hajime-no-ippo",
+      "episodes": 76,
+      "title": "Hajime No Ippo: The Fighting!",
+      "letra": "h",
+      "num": "010",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/caecff823e348221e55a798447fd2aec.jpe"
+    },
+    {
+      "letra": "h",
+      "path": "hajime-no-ippo-new-challenger",
+      "title": "Hajime No Ippo: New Challenger!",
+      "episodes": 26,
+      "player": 4,
+      "num": "010",
+      "img": "https://media-cache.cinematerial.com/p/500x/e5lxsidd/hajime-no-ippo-new-challenger-japanese-movie-cover.jpg"
+    },
+    {
+      "letra": "h",
+      "path": "hajime-no-ippo-rising",
+      "title": "Hajime No Ippo: Rising!",
+      "episodes": 25,
+      "player": 5,
+      "num": "010",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/47245fb608dd8cfffb2f5b4d39ebe0fb.jpe"
+    }
+  ]
 }
 ]
