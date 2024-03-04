@@ -1238,5 +1238,28 @@
       "letra": "r"
     }
   ]
+},
+  {
+  "name": "Made in Abyss",
+  "defaultPicture": "https://m.media-amazon.com/images/M/MV5BYWY3MTliMWYtMmQ1Zi00NDE0LTkzYmUtZDI4MDM1MTgwZTc4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+  "temporadas": [
+    {
+      "title": "Made in Abyss 1",
+      "path": "made-in-abyss",
+      "episodes": 13,
+      "player": 5,
+      "letra": "m",
+      "num": "010",
+      "img": "https://m.media-amazon.com/images/M/MV5BYWY3MTliMWYtMmQ1Zi00NDE0LTkzYmUtZDI4MDM1MTgwZTc4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    },
+    {
+      "player": 2,
+      "path": "made-in-abyss-2",
+      "title": "Made in Abyss 2",
+      "num": "010",
+      "episodes": 12,
+      "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2021/11/Made-in-Abyss-S2-KV.jpg"
+    }
+  ]
 }
 ]
