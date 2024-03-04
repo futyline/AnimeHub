@@ -1196,5 +1196,38 @@
       "player": 1
     }
   ]
+},
+  {
+  "name": "RE: Zero",
+  "defaultPicture": "https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_.jpg",
+  "temporadas": [
+    {
+      "path": "re-zero-1",
+      "letra": "r",
+      "episodes": 25,
+      "player": 2,
+      "num": "010",
+      "title": "RE: Zero",
+      "img": "https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_.jpg"
+    },
+    {
+      "episodes": 13,
+      "path": "re-zero-2",
+      "letra": "r",
+      "player": 2,
+      "num": "010",
+      "title": "RE: Zero 2 pt-1",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/291c6c3b60857afabe46899f848079a4.jpe"
+    },
+    {
+      "title": "RE: Zero 2 pt-2",
+      "episodes": 12,
+      "path": "re-zero-2-part2",
+      "player": 2,
+      "num": "010",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/291c6c3b60857afabe46899f848079a4.jpe",
+      "letra": "r"
+    }
+  ]
 }
 ]
