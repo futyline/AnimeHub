@@ -1295,5 +1295,47 @@
       "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/47245fb608dd8cfffb2f5b4d39ebe0fb.jpe"
     }
   ]
+},
+{
+  "name": "Golden Kamuy",
+  "defaultPicture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/e854ba4fa502e12603f7a6961313d3ea.jpe",
+  "temporadas": [
+    {
+      "episodes": 12,
+      "path": "golden-kamuy",
+      "letra": "g",
+      "player": 5,
+      "num": "010",
+      "title": "Golden Kamuy 1",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/e854ba4fa502e12603f7a6961313d3ea.jpe"
+    },
+    {
+      "episodes": 12,
+      "title": "Golden Kamuy 2",
+      "letra": "g",
+      "path": "golden-kamuy-2",
+      "player": 5,
+      "num": "010",
+      "img": "https://www.picclickimg.com/mbcAAOSweGVfgJFE/Anime-DVD-Golden-Kamuy-Season-2-Complete-Series.webp"
+    },
+    {
+      "episodes": 12,
+      "title": "Golden Kamuy 3",
+      "letra": "g",
+      "path": "golden-kamuy-3",
+      "player": 5,
+      "num": "010",
+      "img": "https://www.anroll.net/_next/image?url=https%3A%2F%2Fstatic.anroll.net%2Fimages%2Fanimes%2Fcapas%2Fgolden-kamuy-3.jpg&w=384&q=50"
+    },
+    {
+      "episodes": 13,
+      "title": "Golden Kamuy 4",
+      "letra": "g",
+      "player": 1,
+      "path": "golden-kamuy-4",
+      "num": "010",
+      "img": "https://www.animenewsnetwork.com/hotlink/images/encyc/A25032-1890086850.1638749915.jpg"
+    }
+  ]
 }
 ]
