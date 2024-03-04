@@ -1256,6 +1256,7 @@
       "player": 2,
       "path": "made-in-abyss-2",
       "title": "Made in Abyss 2",
+      "letra": "m",
       "num": "010",
       "episodes": 12,
       "img": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2021/11/Made-in-Abyss-S2-KV.jpg"
