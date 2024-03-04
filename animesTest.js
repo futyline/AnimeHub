@@ -1361,5 +1361,20 @@
       "img": "https://blogs.opovo.com.br/tomodachinerds/wp-content/uploads/sites/102/2021/10/arifureta_2nd_kv.jpg"
     }
   ]
+},
+  {
+  "name": "Cyberpunk: Edgerunners",
+  "defaultPicture": "https://m.media-amazon.com/images/M/MV5BMTQ0MGI4NTgtZTlkNy00YTU5LThjM2ItNDczMGFlZWY2ZWM3XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_FMjpg_UX1000_.jpg",
+  "temporadas": [
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "path": "cyberpunk-edgerunners",
+      "episodes": 10,
+      "letra": "c",
+      "player": 5,
+      "num": "010",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTQ0MGI4NTgtZTlkNy00YTU5LThjM2ItNDczMGFlZWY2ZWM3XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
 }
 ]
