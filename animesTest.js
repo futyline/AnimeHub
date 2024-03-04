@@ -615,7 +615,7 @@
         "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/66/Poster_1_%28Mugen_Train%29.jpg/revision/latest?cb=20220429122725&path-prefix=pt-br"
       },
       {
-        "title": "kimetsu No Yaiba 3 (Demon Slayer)",
+        "title": "Kimetsu No Yaiba 3 (Demon Slayer)",
         "path": "kimetsu-no-yaiba-yuukaku-hen",
         "episodes": 11,
         "letra": "k",
@@ -623,7 +623,16 @@
         "num": "010",
         "msg": "",
         "img": "https://imusic.b-cdn.net/images/item/original/223/4534530135223.jpg?gotouge-koyoharu-2022-kimetsu-no-yaiba-yuukaku-hen-5-limited-mdvd&class=scaled&v=1650461058"
-      }
+      },
+      {
+      "path": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+      "episodes": 11,
+      "letra": "k",
+      "player": 1,
+      "num": "010",
+      "title": "Kimetsu No Yaiba 4 (Demon Slayer)",
+      "img": "https://images.justwatch.com/poster/304926158/s592/temporada-4"
+    }
     ]
   },
   {
