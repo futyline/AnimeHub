@@ -1376,5 +1376,20 @@
       "img": "https://m.media-amazon.com/images/M/MV5BMTQ0MGI4NTgtZTlkNy00YTU5LThjM2ItNDczMGFlZWY2ZWM3XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_FMjpg_UX1000_.jpg"
     }
   ]
+},
+{
+  "name": "Boruto: Naruto Next Generations",
+  "defaultPicture": "https://chuvadenanquim.files.wordpress.com/2017/01/boruto.jpg",
+  "temporadas": [
+    {
+      "title": "Boruto: Naruto Next Generations",
+      "path": "boruto",
+      "episodes": 293,
+      "letra": "b",
+      "player": 1,
+      "num": "010",
+      "img": "https://chuvadenanquim.files.wordpress.com/2017/01/boruto.jpg"
+    }
+  ]
 }
 ]
