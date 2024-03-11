@@ -1391,5 +1391,20 @@
       "img": "https://chuvadenanquim.files.wordpress.com/2017/01/boruto.jpg"
     }
   ]
+},
+{
+  "name": "Yu Yu Hakusho",
+  "defaultPicture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/e60626c56bf7437857e0caf7cbc4bf4a.jpe",
+  "temporadas": [
+    {
+      "title": "Yu Yu Hakusho",
+      "episodes": 112,
+      "player": 2,
+      "path": "yu-yu-hakusho",
+      "letra": "y",
+      "num": "010",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/e60626c56bf7437857e0caf7cbc4bf4a.jpe"
+    }
+  ]
 }
 ]
