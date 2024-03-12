@@ -28,5 +28,20 @@
             "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/8532171bec0d05bfe45769a330fbab82.jpe"
           }
         ]
+      },
+      {
+        "name": "Fullmetal Alchemist: Brotherhood dublado",
+        "defaultPicture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/0662921aa3b81ff85737ddeb56deefab.jpeg",
+        "temporadas": [
+          {
+            "path": "fullmetal-alchemist-brotherhood-dublado",
+            "title": "Fullmetal Alchemist: Brotherhood dublado",
+            "episodes": 64,
+            "player": 2,
+            "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/0662921aa3b81ff85737ddeb56deefab.jpeg",
+            "letra": "f",
+            "num": "010"
+          }
+        ]
       }
 ]
