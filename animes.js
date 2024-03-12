@@ -1406,5 +1406,41 @@
       "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/e60626c56bf7437857e0caf7cbc4bf4a.jpe"
     }
   ]
+},
+{
+  "name": "Fairy Tail",
+  "defaultPicture": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/18638d44e180fd1b51870106b88e46e4.jpe",
+  "temporadas": [
+    {
+      "path": "fairy-tail",
+      "msg": "1° a 6° temporada",
+      "player": 5,
+      "num": "010",
+      "letra": "f",
+      "episodes": 175,
+      "title": "Fairy Tail",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/18638d44e180fd1b51870106b88e46e4.jpe"
+    },
+    {
+      "title": "Fairy Tail",
+      "episodes": 102,
+      "path": "fairy-tail-2014",
+      "letra": "f",
+      "msg": "7° e 8° temporada",
+      "player": 5,
+      "num": "010",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/18638d44e180fd1b51870106b88e46e4.jpe"
+    },
+    {
+      "path": "fairy-tail-2018",
+      "title": "Fairy Tail",
+      "episodes": 51,
+      "letra": "f",
+      "msg": "9° temporada",
+      "player": 5,
+      "num": "010",
+      "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/18638d44e180fd1b51870106b88e46e4.jpe"
+    }
+  ]
 }
 ]
