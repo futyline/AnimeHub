@@ -24,7 +24,7 @@
             "episodes": 220,
             "title": "Naruto Classico Dublado",
             "num": "010",
-            "player": 1,
+            "player": 6,
             "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/8532171bec0d05bfe45769a330fbab82.jpe"
           }
         ]
