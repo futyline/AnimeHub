@@ -871,7 +871,7 @@
       {
         "title": "Sousou No Frieren 1",
         "path": "sousou-no-frieren",
-        "episodes": 22,
+        "episodes": 28,
         "letra": "s",
         "player": 1,
         "msg": "Em andamento",
