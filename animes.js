@@ -1442,5 +1442,20 @@
       "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/18638d44e180fd1b51870106b88e46e4.jpe"
     }
   ]
+},
+{
+  "name": "Dragon Ball Z",
+  "defaultPicture": "https://cdn-us.anidb.net/images/main/279370.jpg",
+  "temporadas": [
+    {
+      "path": "dragon-ball-z",
+      "episodes": 291,
+      "title": "Dragon Ball Z",
+      "letra": "d",
+      "player": 5,
+      "num": "010",
+      "img": "https://cdn-us.anidb.net/images/main/279370.jpg"
+    }
+  ]
 }
 ]
