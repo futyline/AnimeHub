@@ -760,7 +760,7 @@
       {
         "title": "Shangri-la Frontier",
         "path": "shangri-la-frontier",
-        "episodes": 24,
+        "episodes": 25,
         "letra": "s",
         "player": 1,
         "msg": "Em andamento",
