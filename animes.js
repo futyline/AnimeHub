@@ -1457,5 +1457,20 @@
       "img": "https://cdn-us.anidb.net/images/main/279370.jpg"
     }
   ]
+},
+  {
+  "name": "Halo Legends",
+  "defaultPicture": "https://lh6.googleusercontent.com/proxy/VcCsofdqwu69AhJLBE4lVyTAZZeKNdyx6YxBcrg7LGJu16OZges_fGE2ek7vwfLYbNt5ArULW9vV3bFDS7v_S4fyDXhu6ktqd3Hm3pJ4Mg",
+  "temporadas": [
+    {
+      "img": "https://lh6.googleusercontent.com/proxy/VcCsofdqwu69AhJLBE4lVyTAZZeKNdyx6YxBcrg7LGJu16OZges_fGE2ek7vwfLYbNt5ArULW9vV3bFDS7v_S4fyDXhu6ktqd3Hm3pJ4Mg",
+      "player": 5,
+      "path": "halo-legends",
+      "letra": "h",
+      "episodes": 8,
+      "num": "010",
+      "title": "Halo Legends"
+    }
+  ]
 }
 ]
