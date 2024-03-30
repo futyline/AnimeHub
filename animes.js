@@ -325,7 +325,7 @@
         "episodes": 12,
         "letra": "s",
         "player": 1,
-        "msg": "Em andamento",
+        "msg": "segunda temporada confirmada",
         "img": "https://m.media-amazon.com/images/M/MV5BODJkZTM3MWYtOTkxNS00YWUxLTg5NjAtOTk4ZWM5MTBmMzAyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
       }
     ]
