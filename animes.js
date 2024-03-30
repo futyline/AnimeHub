@@ -322,7 +322,7 @@
       {
         "title": "Solo Leveling 1",
         "path": "solo-leveling",
-        "episodes": 25,
+        "episodes": 12,
         "letra": "s",
         "player": 1,
         "msg": "Em andamento",
