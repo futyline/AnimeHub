@@ -260,7 +260,7 @@
       },
       {
         "title": "Shingeki No Kyojin 2 (Attack on titan)",
-        "path": "shingeki-no-kyojin",
+        "path": "shingeki-no-kyojin-2",
         "episodes": 12,
         "letra": "s",
         "player": 2,
