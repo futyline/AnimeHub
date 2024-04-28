@@ -1513,5 +1513,58 @@
       "msg": "Em andamento"
     }
   ]
+},
+  {
+  "name": "Overlord",
+  "defaultPicture": "https://images.justwatch.com/poster/181525333/s592/temporada-1",
+  "temporadas": [
+    {
+      "path": "overlord",
+      "episodes": 13,
+      "letra": "o",
+      "player": 2,
+      "num": "010",
+      "title": "Overlord 1",
+      "img": "https://images.justwatch.com/poster/181525333/s592/temporada-1"
+    },
+    {
+      "path": "overlord-II",
+      "episodes": 13,
+      "letra": "o",
+      "player": 2,
+      "num": "010",
+      "title": "Overlord 2",
+      "img": "https://i.pinimg.com/474x/3b/82/36/3b82363552b799f85fbf5f6153f9e189.jpg"
+    },
+    {
+      "path": "overlord-III",
+      "episodes": 13,
+      "letra": "o",
+      "player": 2,
+      "num": "010",
+      "title": "Overlord 3",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/91d35d8d1755642926bf7ab4af304516773962e97fae5e7ff732c5b8201af86b.jpg"
+    },
+    {
+      "path": "overlord-iv",
+      "episodes": 11,
+      "letra": "o",
+      "player": 5,
+      "num": "010",
+      "msg": "episodio 12 e 13 na aba 5",
+      "title": "Overlord 4",
+      "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133844-E32FjKZ0XxEs.jpg"
+    },
+    {
+      "path": "overlord-iv",
+      "episodes": 2,
+      "letra": "o",
+      "player": 1,
+      "num": "010",
+      "msg": "episodios 12 e 13 da 4° temporada",
+      "title": "Overlord 4 restante",
+      "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133844-E32FjKZ0XxEs.jpg"
+    }
+  ]
 }
 ]
