@@ -147,7 +147,17 @@
         "player": 1,
         "msg": "",
         "img": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/251524e3b5517b689317437d881eccf0.jpe"
-      }
+      },
+      {
+      "path": "boku-no-hero-7",
+      "episodes": 4,
+      "letra": "B",
+      "player": 1,
+      "num": "010",
+      "msg": "RECAP",
+      "img": "https://pics.filmaffinity.com/My_Hero_Academia_Memories_TV_Miniseries-661751559-large.jpg",
+      "title": "Boku no Hero Academia 7: Memories"
+    }
     ]
   },
   {
