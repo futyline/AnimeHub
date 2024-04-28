@@ -1482,5 +1482,36 @@
       "title": "Halo Legends"
     }
   ]
+},
+  {
+  "name": "Kaiju No. 8",
+  "defaultPicture": "https://a.storyblok.com/f/178900/1484x2100/fff351971f/kaiju-no8-jp-kv.jpeg",
+  "temporadas": [
+    {
+      "episodes": 12,
+      "msg": "Em andamento",
+      "path": "kaijuu-8-gou",
+      "letra": "k",
+      "player": 1,
+      "img": "https://a.storyblok.com/f/178900/1484x2100/fff351971f/kaiju-no8-jp-kv.jpeg",
+      "title": "Kaiju No. 8"
+    }
+  ]
+},
+  {
+  "name": "Wind Breaker",
+  "defaultPicture": "https://m.media-amazon.com/images/M/MV5BNDU3OGFjZDAtNDY2Ny00YTY1LThhYzUtMmZkMDE3OWRkYTcyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "temporadas": [
+    {
+      "path": "wind-breaker",
+      "letra": "w",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDU3OGFjZDAtNDY2Ny00YTY1LThhYzUtMmZkMDE3OWRkYTcyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "title": "Wind Breaker",
+      "episodes": 13,
+      "player": 1,
+      "num": "010",
+      "msg": "Em andamento"
+    }
+  ]
 }
 ]
