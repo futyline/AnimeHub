@@ -1557,11 +1557,11 @@
       "adicionais": [
         {
           "episodio": 12,
-          "player": 1,
+          "player": 1
         },
         {
           "episodio": 13,
-          "player": 1,
+          "player": 1
         }
       ]
     },
