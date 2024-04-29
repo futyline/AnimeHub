@@ -1544,39 +1544,7 @@
       "num": "010",
       "title": "Overlord 3",
       "img": "https://m.media-amazon.com/images/S/pv-target-images/91d35d8d1755642926bf7ab4af304516773962e97fae5e7ff732c5b8201af86b.jpg"
-    },
-    {
-      "path": "overlord-iv",
-      "episodes": 11,
-      "letra": "o",
-      "player": 5,
-      "num": "010",
-      "msg": "episodio 12 e 13 na aba 5",
-      "title": "Overlord 4",
-      "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133844-E32FjKZ0XxEs.jpg",
-      "adicional" : [
-        {
-          "episodio": 11,
-          "path": "overlord-iv",
-          "pleyer" :1
-        },
-        {
-          "episodio": 12,
-          "path": "overlord-iv",
-          "pleyer" :1
-        }
-      ]
-    },
-    {
-      "path": "overlord-iv",
-      "episodes": 2,
-      "letra": "o",
-      "player": 1,
-      "num": "010",
-      "msg": "episodios 12 e 13 da 4° temporada",
-      "title": "Overlord 4 restante",
-      "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133844-E32FjKZ0XxEs.jpg"
-    }
+    }    
   ]
 }
 ]
