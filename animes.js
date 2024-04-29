@@ -1553,7 +1553,19 @@
       "num": "010",
       "msg": "episodio 12 e 13 na aba 5",
       "title": "Overlord 4",
-      "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133844-E32FjKZ0XxEs.jpg"
+      "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133844-E32FjKZ0XxEs.jpg",
+      "adicional" : [
+        {
+          "episodio": 11,
+          "path": "overlord-iv",
+          "pleyer" :1
+        },
+        {
+          "episodio": 12,
+          "path": "overlord-iv",
+          "pleyer" :1
+        }
+      ]
     },
     {
       "path": "overlord-iv",
