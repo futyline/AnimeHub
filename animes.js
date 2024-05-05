@@ -151,12 +151,22 @@
       {
       "path": "boku-no-hero-7",
       "episodes": 4,
-      "letra": "B",
+      "letra": "b",
       "player": 1,
       "num": "010",
       "msg": "RECAP",
       "img": "https://pics.filmaffinity.com/My_Hero_Academia_Memories_TV_Miniseries-661751559-large.jpg",
       "title": "Boku no Hero Academia 7: Memories"
+    },
+      {
+      "path": "boku-no-hero-academia-7th-season",
+      "episodes": 12,
+      "letra": "b",
+      "player": 1,
+      "num": "010",
+      "msg": "Em andamento",
+      "img": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/12/ga_kwjjbeaenvv___42o53vxy-760x1013.jpeg",
+      "title": "Boku No Hero Academia 7"
     }
     ]
   },
