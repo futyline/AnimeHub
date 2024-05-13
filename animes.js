@@ -652,6 +652,16 @@
       "num": "010",
       "title": "Kimetsu No Yaiba 4 (Demon Slayer)",
       "img": "https://images.justwatch.com/poster/304926158/s592/temporada-4"
+    },
+      {
+      "title": "Kimetsu No Yaiba 5 (Demon Slayer)",
+      "path": "kimetsu-no-yaiba-hashira-geiko-hen",
+      "letra": "k",
+      "player": 1,
+      "num": "010",
+      "msg": "em andamento",
+      "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-bGHsLoWmJmiL.png",
+      "episodes": 8
     }
     ]
   },
@@ -1555,6 +1565,22 @@
       "title": "Overlord 3",
       "img": "https://m.media-amazon.com/images/S/pv-target-images/91d35d8d1755642926bf7ab4af304516773962e97fae5e7ff732c5b8201af86b.jpg"
     }    
+  ]
+},
+  {
+  "name": "Sentai Daishikkaku",
+  "defaultPicture": "https://www.anroll.net/_next/image?url=https%3A%2F%2Fstatic.anroll.net%2Fimages%2Fanimes%2Fcapas%2Fsentai-daishikkaku.jpg&w=384&q=50",
+  "temporadas": [
+    {
+      "path": "sentai-daishikkaku",
+      "img": "https://www.anroll.net/_next/image?url=https%3A%2F%2Fstatic.anroll.net%2Fimages%2Fanimes%2Fcapas%2Fsentai-daishikkaku.jpg&w=384&q=50",
+      "episodes": 12,
+      "letra": "s",
+      "player": 1,
+      "num": "010",
+      "msg": "em andamento",
+      "title": "Sentai Daishikkaku"
+    }
   ]
 }
 ]
