@@ -162,7 +162,7 @@
       "path": "boku-no-hero-academia-7th-season",
       "episodes": 12,
       "letra": "b",
-      "player": 1,
+      "player": 7,
       "num": "010",
       "msg": "Em andamento",
       "img": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/12/ga_kwjjbeaenvv___42o53vxy-760x1013.jpeg",
